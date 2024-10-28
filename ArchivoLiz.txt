@@ -1,2 +1,2 @@
 git add ArchivoLiz.txt
-modificacion 2
+moificacion hecha por otra persona 
